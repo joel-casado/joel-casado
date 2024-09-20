@@ -1,1 +1,1 @@
-## Hi there 👋
+Aplicació per museu Apel·les Fenosa
